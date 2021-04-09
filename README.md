@@ -1,6 +1,6 @@
-#Front end technology used:-
-  React js
-  css
+#Front end technology used-
+  React js,
+  css,
   jsx
   
 # Getting Started with Create React App
